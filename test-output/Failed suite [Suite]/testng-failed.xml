@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Suite]]">
+  <test thread-count="5" name="Test(failed)(failed)">
+    <classes>
+      <class name="TESTS.EditTemplateTest">
+        <methods>
+          <include name="start"/>
+          <include name="end"/>
+          <include name="EditTemplate_FromPolicy_Test"/>
+        </methods>
+      </class> <!-- TESTS.EditTemplateTest -->
+      <class name="TESTS.CPEsTest">
+        <methods>
+          <include name="sitesearch"/>
+          <include name="start"/>
+          <include name="end"/>
+        </methods>
+      </class> <!-- TESTS.CPEsTest -->
+      <class name="TESTS.PolicyTest">
+        <methods>
+          <include name="seach"/>
+          <include name="start"/>
+          <include name="end"/>
+        </methods>
+      </class> <!-- TESTS.PolicyTest -->
+    </classes>
+  </test> <!-- Test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Suite]] -->

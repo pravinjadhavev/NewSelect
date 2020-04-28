@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="341053" started-at="2020-04-28T06:54:37Z" finished-at="2020-04-28T07:00:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="341053" started-at="2020-04-28T06:54:37Z" finished-at="2020-04-28T07:00:18Z">
+      <class name="TESTS.CPEsTest">
+        <test-method status="PASS" signature="start()[pri:0, instance:TESTS.CPEsTest@1d371b2d]" name="start" is-config="true" duration-ms="9846" started-at="2020-04-28T06:54:37Z" finished-at="2020-04-28T06:54:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="CPE_Count()[pri:0, instance:TESTS.CPEsTest@1d371b2d]" name="CPE_Count" duration-ms="46840" started-at="2020-04-28T06:54:47Z" finished-at="2020-04-28T06:55:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CPE_Count -->
+        <test-method status="PASS" signature="end()[pri:0, instance:TESTS.CPEsTest@1d371b2d]" name="end" is-config="true" duration-ms="109" started-at="2020-04-28T06:55:35Z" finished-at="2020-04-28T06:55:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="start()[pri:0, instance:TESTS.CPEsTest@1d371b2d]" name="start" is-config="true" duration-ms="12705" started-at="2020-04-28T06:55:35Z" finished-at="2020-04-28T06:55:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="CPE_Goto_Template_Navigation()[pri:0, instance:TESTS.CPEsTest@1d371b2d]" name="CPE_Goto_Template_Navigation" duration-ms="34974" started-at="2020-04-28T06:55:48Z" finished-at="2020-04-28T06:56:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CPE_Goto_Template_Navigation -->
+        <test-method status="PASS" signature="end()[pri:0, instance:TESTS.CPEsTest@1d371b2d]" name="end" is-config="true" duration-ms="167" started-at="2020-04-28T06:56:23Z" finished-at="2020-04-28T06:56:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="start()[pri:0, instance:TESTS.CPEsTest@1d371b2d]" name="start" is-config="true" duration-ms="8068" started-at="2020-04-28T06:56:23Z" finished-at="2020-04-28T06:56:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="CPE_Goto_selected_Template_Navigation()[pri:0, instance:TESTS.CPEsTest@1d371b2d]" name="CPE_Goto_selected_Template_Navigation" duration-ms="39052" started-at="2020-04-28T06:56:31Z" finished-at="2020-04-28T06:57:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CPE_Goto_selected_Template_Navigation -->
+        <test-method status="PASS" signature="end()[pri:0, instance:TESTS.CPEsTest@1d371b2d]" name="end" is-config="true" duration-ms="146" started-at="2020-04-28T06:57:10Z" finished-at="2020-04-28T06:57:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="start()[pri:0, instance:TESTS.CPEsTest@1d371b2d]" name="start" is-config="true" duration-ms="13029" started-at="2020-04-28T06:57:11Z" finished-at="2020-04-28T06:57:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="CPE_search()[pri:0, instance:TESTS.CPEsTest@1d371b2d]" name="CPE_search" duration-ms="33049" started-at="2020-04-28T06:57:24Z" finished-at="2020-04-28T06:57:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CPE_search -->
+        <test-method status="PASS" signature="end()[pri:0, instance:TESTS.CPEsTest@1d371b2d]" name="end" is-config="true" duration-ms="301" started-at="2020-04-28T06:57:57Z" finished-at="2020-04-28T06:57:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="start()[pri:0, instance:TESTS.CPEsTest@1d371b2d]" name="start" is-config="true" duration-ms="11958" started-at="2020-04-28T06:57:57Z" finished-at="2020-04-28T06:58:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="CPEPage_Edit_Alis()[pri:1, instance:TESTS.CPEsTest@1d371b2d]" name="CPEPage_Edit_Alis" duration-ms="34399" started-at="2020-04-28T06:58:09Z" finished-at="2020-04-28T06:58:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CPEPage_Edit_Alis -->
+        <test-method status="PASS" signature="end()[pri:0, instance:TESTS.CPEsTest@1d371b2d]" name="end" is-config="true" duration-ms="143" started-at="2020-04-28T06:58:43Z" finished-at="2020-04-28T06:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="start()[pri:0, instance:TESTS.CPEsTest@1d371b2d]" name="start" is-config="true" duration-ms="10373" started-at="2020-04-28T06:58:44Z" finished-at="2020-04-28T06:58:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="CPEPage_Row_Edit_Alis()[pri:2, instance:TESTS.CPEsTest@1d371b2d]" name="CPEPage_Row_Edit_Alis" duration-ms="77700" started-at="2020-04-28T06:58:54Z" finished-at="2020-04-28T07:00:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CPEPage_Row_Edit_Alis -->
+        <test-method status="PASS" signature="end()[pri:0, instance:TESTS.CPEsTest@1d371b2d]" name="end" is-config="true" duration-ms="5932" started-at="2020-04-28T07:00:12Z" finished-at="2020-04-28T07:00:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- TESTS.CPEsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
